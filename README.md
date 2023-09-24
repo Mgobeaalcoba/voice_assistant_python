@@ -1,15 +1,20 @@
 # My own voice assistant
 
-Si deseas descargar lenguajes adicionales en tu sistema operativo Windows puedes encontrar las instrucciones acá: 
-https://support.microsoft.com/es-es/topic/descargar-idiomas-y-voces-para-lector-inmersivo-el-modo-lectura-y-lectura-en-voz-alta-4c83a8d8-7486-42f7-8e46-2b0fdf753130
+This Python-based voice assistant is designed to streamline tasks using natural language processing and speech recognition. It can perform various actions such as opening web browsers, providing the current date and time, searching in Wikipedia, playing YouTube videos, telling jokes, and even fetching stock prices. Below, you'll find detailed information on how to use this voice assistant.
 
-Para Mac aquí:
-https://support.apple.com/es-es/guide/mac-help/mh26684/mac#:~:text=En%20el%20Mac%2C%20selecciona%20el,en%20%E2%80%9CIdioma%20y%20regi%C3%B3n%E2%80%9D%20.&text=Haz%20clic%20en%20General.,y%20haz%20clic%20en%20A%C3%B1adir.
+## Uses
 
-Para Linux así:
+Here are some example voice commands you can use with this assistant:
 
-```bash
-sudo apt-get install espeak-ng-espeak
-```
+1. "Open YouTube" - Opens the YouTube website.
+2. "Open browser" - Opens the Google website.
+3. "What day is today?" - Provides the current day of the week and date.
+4. "What time is it?" - Tells you the current time.
+5. "Search in Wikipedia [your query]" - Searches Wikipedia for the specified query.
+6. "Search in internet [your query]" - Performs a web search using the specified query.
+7. "Play [song or video]" - Plays a song or video on YouTube.
+8. "Tell me a joke" - Shares a joke.
+9. "Stock price of [company]" - Retrieves the stock price of a specified company.
+10 ."Goodbye" - Exits the voice assistant.
 
-En el ejemplo de arriba estaríamos instalando el español si es que no lo tenés! 
+Feel free to customize and expand upon these commands to suit your needs.
